@@ -3,7 +3,7 @@
 - 🤓 Ainda no começo da minha jornada na tecnologia, trabalho desenvolvendo aplicações mobile com a framework Flutter
 - 🎓 Estou cursando o 1º semestre de Análise e Desenvolvimento de Sistemas
 - 🖥️ Focando os estudos em Dart + Flutter
-- 📚 Veja minha trajetória de estudos no meu (roadmap)[https://github.com/ericarodrigs/roadmap]
+- 📚 Veja minha trajetória de estudos no meu [roadmap](https://github.com/ericarodrigs/roadmap)
 - 🗣️ Português Nativo | Inglês Avançado
 - ❤️ Cozinhar, séries, viajar
 
