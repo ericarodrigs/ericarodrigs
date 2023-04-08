@@ -3,6 +3,7 @@
 - 🤓 Ainda no começo da minha jornada na tecnologia, trabalho desenvolvendo aplicações mobile com a framework Flutter
 - 🎓 Estou cursando o 1º semestre de Análise e Desenvolvimento de Sistemas
 - 🖥️ Focando os estudos em Dart + Flutter
+- 📚 Veja minha trajetória de estudos no meu (roadmap)[https://github.com/ericarodrigs/roadmap]
 - 🗣️ Português Nativo | Inglês Avançado
 - ❤️ Cozinhar, séries, viajar
 
@@ -34,7 +35,7 @@
 ### Status
 
 <div align="center" >  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericarodrigs&show_icons=true&count_private=true&hide_border=true&title_color=FFC800&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="Larissa Rabelo github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericarodrigs&show_icons=true&count_private=true&hide_border=true&title_color=FFC800&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="Érica Rodrigues github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericarodrigs&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=4" />
 </div>
 
